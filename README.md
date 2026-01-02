@@ -1,19 +1,41 @@
 # Hi 👋 I'm Angel Mainali
 
-🎓 CSIT 2nd Year Student  
-🐍 Python | 📊 Data Science | 📈 Data Analysis  
+🎓 **CSIT Student | Aspiring Data Scientist**  
+🐍 Python | 📊 Data Analysis | 🤖 Machine Learning  
 
-## 🚀 Skills
-- Python (Basics → Advanced)
-- NumPy, Pandas
-- Matplotlib, Seaborn
-- SQL (Basics)
-- Statistics for Data Science
+---
 
-## 📂 Featured Projects
-🔹 Python Basics & Problem Solving  
-🔹 Data Analysis Projects  
-🔹 Mini Machine Learning Projects  
+## 🚀 About Me
+- 📚 2nd Year CSIT Student  
+- 🧠 Learning Data Science step-by-step  
+- 🔍 Interested in Data Analysis & ML  
+- 💻 Practicing Python daily  
 
-## 📫 Connect With Me
-- GitHub: https://github.com/angel-mainali
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+- **ML:** Scikit-Learn (Beginner)  
+- **Tools:** Jupyter Notebook, GitHub, VS Code  
+
+---
+
+## 📂 Featured Repositories
+🔹 **Python-for-Data-Science**  
+🔹 **Data-Analysis-Projects**  
+🔹 **Machine-Learning-Basics**  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelmainali&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: 
+- 📧 Email: angelmainali615@gmail.com
+
+⭐ _Learning. Building. Improving._
+
