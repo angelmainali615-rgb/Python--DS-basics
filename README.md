@@ -1,15 +1,19 @@
-# Python--DS-basics
-All about python for data science 
-# Python Practice for CSIT Students
+# Hi 👋 I'm Angel Mainali
 
-## Objective
-This repository contains Python practice exercises suitable for
-CSIT 2nd-year students. Focused on:
-- Loops
-- Functions
-- Lists & Dictionaries
-- Strings
+🎓 CSIT 2nd Year Student  
+🐍 Python | 📊 Data Science | 📈 Data Analysis  
 
-## Folder Structure
-- `scripts/` → Python practice scripts
-- `requirements.txt` → Required Python libraries
+## 🚀 Skills
+- Python (Basics → Advanced)
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- SQL (Basics)
+- Statistics for Data Science
+
+## 📂 Featured Projects
+🔹 Python Basics & Problem Solving  
+🔹 Data Analysis Projects  
+🔹 Mini Machine Learning Projects  
+
+## 📫 Connect With Me
+- GitHub: https://github.com/angel-mainali
