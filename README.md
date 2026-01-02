@@ -1,26 +1,25 @@
+# Python & Data Science Basics 🐍📊
+
+Welcome! This repository contains my **Python and Data Science practice projects** as I learn step by step.  
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmainali615-rgb&show_icons=true&theme=radical)
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmainali615-rgb&layout=compact&theme=radical)
+## 🚀 About Me
+- 🎓 CSIT Student | 2nd Year  
+- 🐍 Python | 📊 Data Analysis | 🤖 Machine Learning (Beginner)  
+- 💻 Practicing coding and building small projects to improve skills  
 
 ---
 
-## 📈 Projects / Examples
-- Student Result Analysis  
-- Sales Data Analysis  
-- COVID-19 Data Analysis  
-- Simple Machine Learning models (Linear Regression, Classification)  
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: *(Add your link)*  
-- 📧 Email: angelmainali615@gmail.com 
+## 📂 Repository Structure
 
-⭐ Learning. Building. Improving every day!
