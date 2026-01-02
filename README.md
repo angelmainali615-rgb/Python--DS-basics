@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelmainali&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelmainali615-rgb&show_icons=true&theme=radical)
 
 ---
 
