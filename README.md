@@ -30,7 +30,8 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelmainali615-rgb&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelmainali615-rgb&show_icons=true&count_private=true&include_all_commits=true)
+
 
 ## 🔤 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmainali615-rgb&layout=compact)
